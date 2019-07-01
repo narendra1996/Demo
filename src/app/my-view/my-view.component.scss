@@ -1,0 +1,24 @@
+.app-title {
+    color: black;
+    font-size: 28px;
+    display: inline-block;
+    letter-spacing: -1px;
+}
+.navbar-brand {
+    padding: unset;
+}
+.navbar {
+    padding: unset;
+    border-bottom: 1px inset;
+}
+.fa-search {
+    color:#007bff;
+}
+.btn-outline-primary {
+    border-color:white;
+}
+.search-filter {
+    position: absolute;
+    right: 0;
+    top: 55px;
+}

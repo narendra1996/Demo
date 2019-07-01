@@ -1,0 +1,12 @@
+.mat-grid-tile .mat-grid-tile-header {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    color: #fff;
+    background: rgba(0,0,0,.38);
+    overflow: hidden;
+    padding: 0px 130px;
+    position: unset;
+    left: 0;
+    right: 0;
+}
